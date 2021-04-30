@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "https://commaai.github.io/explorer/static/css/main.a16d780c.chunk.css",
-    "main.js": "https://commaai.github.io/explorer/static/js/main.93f92ee4.chunk.js",
-    "main.js.map": "https://commaai.github.io/explorer/static/js/main.93f92ee4.chunk.js.map",
-    "runtime-main.js": "https://commaai.github.io/explorer/static/js/runtime-main.632bc9bc.js",
-    "runtime-main.js.map": "https://commaai.github.io/explorer/static/js/runtime-main.632bc9bc.js.map",
-    "static/css/2.d5736f53.chunk.css": "https://commaai.github.io/explorer/static/css/2.d5736f53.chunk.css",
-    "static/js/2.607f4cb5.chunk.js": "https://commaai.github.io/explorer/static/js/2.607f4cb5.chunk.js",
-    "static/js/2.607f4cb5.chunk.js.map": "https://commaai.github.io/explorer/static/js/2.607f4cb5.chunk.js.map",
-    "73600c3b0523695727af.worker.js": "https://commaai.github.io/explorer/73600c3b0523695727af.worker.js",
-    "73600c3b0523695727af.worker.js.LICENSE.txt": "https://commaai.github.io/explorer/73600c3b0523695727af.worker.js.LICENSE.txt",
-    "73600c3b0523695727af.worker.js.map": "https://commaai.github.io/explorer/73600c3b0523695727af.worker.js.map",
-    "index.html": "https://commaai.github.io/explorer/index.html",
-    "precache-manifest.4479103588bfbf46ba41ee0666294561.js": "https://commaai.github.io/explorer/precache-manifest.4479103588bfbf46ba41ee0666294561.js",
-    "service-worker.js": "https://commaai.github.io/explorer/service-worker.js",
-    "static/css/2.d5736f53.chunk.css.map": "https://commaai.github.io/explorer/static/css/2.d5736f53.chunk.css.map",
-    "static/css/main.a16d780c.chunk.css.map": "https://commaai.github.io/explorer/static/css/main.a16d780c.chunk.css.map",
-    "static/js/2.607f4cb5.chunk.js.LICENSE.txt": "https://commaai.github.io/explorer/static/js/2.607f4cb5.chunk.js.LICENSE.txt",
-    "static/media/icon-chffr-wheel.svg": "https://commaai.github.io/explorer/static/media/icon-chffr-wheel.368fbfd6.svg"
+    "main.css": "/static/css/main.a16d780c.chunk.css",
+    "main.js": "/static/js/main.7bb92a83.chunk.js",
+    "main.js.map": "/static/js/main.7bb92a83.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ab3ce312.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ab3ce312.js.map",
+    "static/css/2.d5736f53.chunk.css": "/static/css/2.d5736f53.chunk.css",
+    "static/js/2.334cdf79.chunk.js": "/static/js/2.334cdf79.chunk.js",
+    "static/js/2.334cdf79.chunk.js.map": "/static/js/2.334cdf79.chunk.js.map",
+    "032b768692a7b083f694.worker.js": "/032b768692a7b083f694.worker.js",
+    "032b768692a7b083f694.worker.js.LICENSE.txt": "/032b768692a7b083f694.worker.js.LICENSE.txt",
+    "032b768692a7b083f694.worker.js.map": "/032b768692a7b083f694.worker.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e4f5ecfda3e267ead75a47b727c856c9.js": "/precache-manifest.e4f5ecfda3e267ead75a47b727c856c9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d5736f53.chunk.css.map": "/static/css/2.d5736f53.chunk.css.map",
+    "static/css/main.a16d780c.chunk.css.map": "/static/css/main.a16d780c.chunk.css.map",
+    "static/js/2.334cdf79.chunk.js.LICENSE.txt": "/static/js/2.334cdf79.chunk.js.LICENSE.txt",
+    "static/media/icon-chffr-wheel.svg": "/static/media/icon-chffr-wheel.368fbfd6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.632bc9bc.js",
+    "static/js/runtime-main.ab3ce312.js",
     "static/css/2.d5736f53.chunk.css",
-    "static/js/2.607f4cb5.chunk.js",
+    "static/js/2.334cdf79.chunk.js",
     "static/css/main.a16d780c.chunk.css",
-    "static/js/main.93f92ee4.chunk.js"
+    "static/js/main.7bb92a83.chunk.js"
   ]
 }
