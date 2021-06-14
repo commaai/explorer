@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.b9a4e1e2.chunk.css",
-    "main.js": "/static/js/main.940ed7ff.chunk.js",
-    "main.js.map": "/static/js/main.940ed7ff.chunk.js.map",
+    "main.js": "/static/js/main.a2b6b701.chunk.js",
+    "main.js.map": "/static/js/main.a2b6b701.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ab3ce312.js",
     "runtime-main.js.map": "/static/js/runtime-main.ab3ce312.js.map",
     "static/css/2.83704e1f.chunk.css": "/static/css/2.83704e1f.chunk.css",
-    "static/js/2.808d28d9.chunk.js": "/static/js/2.808d28d9.chunk.js",
-    "static/js/2.808d28d9.chunk.js.map": "/static/js/2.808d28d9.chunk.js.map",
-    "61f00f5c71834773a829.worker.js": "/61f00f5c71834773a829.worker.js",
-    "61f00f5c71834773a829.worker.js.LICENSE.txt": "/61f00f5c71834773a829.worker.js.LICENSE.txt",
-    "61f00f5c71834773a829.worker.js.map": "/61f00f5c71834773a829.worker.js.map",
+    "static/js/2.499fa7ba.chunk.js": "/static/js/2.499fa7ba.chunk.js",
+    "static/js/2.499fa7ba.chunk.js.map": "/static/js/2.499fa7ba.chunk.js.map",
+    "df626244a72ff8050f03.worker.js": "/df626244a72ff8050f03.worker.js",
+    "df626244a72ff8050f03.worker.js.LICENSE.txt": "/df626244a72ff8050f03.worker.js.LICENSE.txt",
+    "df626244a72ff8050f03.worker.js.map": "/df626244a72ff8050f03.worker.js.map",
     "index.html": "/index.html",
-    "precache-manifest.93faf98c844b42d16fc8142899b4bded.js": "/precache-manifest.93faf98c844b42d16fc8142899b4bded.js",
+    "precache-manifest.7f295708d5cf51f480d62e294611fca4.js": "/precache-manifest.7f295708d5cf51f480d62e294611fca4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.83704e1f.chunk.css.map": "/static/css/2.83704e1f.chunk.css.map",
     "static/css/main.b9a4e1e2.chunk.css.map": "/static/css/main.b9a4e1e2.chunk.css.map",
-    "static/js/2.808d28d9.chunk.js.LICENSE.txt": "/static/js/2.808d28d9.chunk.js.LICENSE.txt",
+    "static/js/2.499fa7ba.chunk.js.LICENSE.txt": "/static/js/2.499fa7ba.chunk.js.LICENSE.txt",
     "static/media/icon-chffr-wheel.svg": "/static/media/icon-chffr-wheel.368fbfd6.svg",
     "static/media/icon-pin-car.png": "/static/media/icon-pin-car.0075bac9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ab3ce312.js",
     "static/css/2.83704e1f.chunk.css",
-    "static/js/2.808d28d9.chunk.js",
+    "static/js/2.499fa7ba.chunk.js",
     "static/css/main.b9a4e1e2.chunk.css",
-    "static/js/main.940ed7ff.chunk.js"
+    "static/js/main.a2b6b701.chunk.js"
   ]
 }
