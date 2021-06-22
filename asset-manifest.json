@@ -1,30 +1,34 @@
 {
   "files": {
     "main.css": "/static/css/main.b9a4e1e2.chunk.css",
-    "main.js": "/static/js/main.a2b6b701.chunk.js",
-    "main.js.map": "/static/js/main.a2b6b701.chunk.js.map",
+    "main.js": "/static/js/main.4ad72e86.chunk.js",
+    "main.js.map": "/static/js/main.4ad72e86.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ab3ce312.js",
     "runtime-main.js.map": "/static/js/runtime-main.ab3ce312.js.map",
-    "static/css/2.83704e1f.chunk.css": "/static/css/2.83704e1f.chunk.css",
-    "static/js/2.499fa7ba.chunk.js": "/static/js/2.499fa7ba.chunk.js",
-    "static/js/2.499fa7ba.chunk.js.map": "/static/js/2.499fa7ba.chunk.js.map",
-    "df626244a72ff8050f03.worker.js": "/df626244a72ff8050f03.worker.js",
-    "df626244a72ff8050f03.worker.js.LICENSE.txt": "/df626244a72ff8050f03.worker.js.LICENSE.txt",
-    "df626244a72ff8050f03.worker.js.map": "/df626244a72ff8050f03.worker.js.map",
+    "static/css/2.2a6f809f.chunk.css": "/static/css/2.2a6f809f.chunk.css",
+    "static/js/2.2d4a58c5.chunk.js": "/static/js/2.2d4a58c5.chunk.js",
+    "static/js/2.2d4a58c5.chunk.js.map": "/static/js/2.2d4a58c5.chunk.js.map",
+    "33789415c1d530ef1fc4.worker.js": "/33789415c1d530ef1fc4.worker.js",
+    "33789415c1d530ef1fc4.worker.js.LICENSE.txt": "/33789415c1d530ef1fc4.worker.js.LICENSE.txt",
+    "33789415c1d530ef1fc4.worker.js.map": "/33789415c1d530ef1fc4.worker.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7f295708d5cf51f480d62e294611fca4.js": "/precache-manifest.7f295708d5cf51f480d62e294611fca4.js",
+    "precache-manifest.eb686e03ac5ce5b9da538c0e5f05d63e.js": "/precache-manifest.eb686e03ac5ce5b9da538c0e5f05d63e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.83704e1f.chunk.css.map": "/static/css/2.83704e1f.chunk.css.map",
+    "static/css/2.2a6f809f.chunk.css.map": "/static/css/2.2a6f809f.chunk.css.map",
     "static/css/main.b9a4e1e2.chunk.css.map": "/static/css/main.b9a4e1e2.chunk.css.map",
-    "static/js/2.499fa7ba.chunk.js.LICENSE.txt": "/static/js/2.499fa7ba.chunk.js.LICENSE.txt",
+    "static/js/2.2d4a58c5.chunk.js.LICENSE.txt": "/static/js/2.2d4a58c5.chunk.js.LICENSE.txt",
     "static/media/icon-chffr-wheel.svg": "/static/media/icon-chffr-wheel.368fbfd6.svg",
-    "static/media/icon-pin-car.png": "/static/media/icon-pin-car.0075bac9.png"
+    "static/media/pin-car.svg": "/static/media/pin-car.e2cea424.svg",
+    "static/media/pin-home.svg": "/static/media/pin-home.76fbb1ef.svg",
+    "static/media/pin-marker.svg": "/static/media/pin-marker.f23cf751.svg",
+    "static/media/pin-pinned.svg": "/static/media/pin-pinned.8e0cdc8d.svg",
+    "static/media/pin-work.svg": "/static/media/pin-work.149766da.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ab3ce312.js",
-    "static/css/2.83704e1f.chunk.css",
-    "static/js/2.499fa7ba.chunk.js",
+    "static/css/2.2a6f809f.chunk.css",
+    "static/js/2.2d4a58c5.chunk.js",
     "static/css/main.b9a4e1e2.chunk.css",
-    "static/js/main.a2b6b701.chunk.js"
+    "static/js/main.4ad72e86.chunk.js"
   ]
 }
