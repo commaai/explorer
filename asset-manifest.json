@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9a4e1e2.chunk.css",
-    "main.js": "/static/js/main.d1364ace.chunk.js",
-    "main.js.map": "/static/js/main.d1364ace.chunk.js.map",
+    "main.css": "/static/css/main.370036f0.chunk.css",
+    "main.js": "/static/js/main.ef0a58a2.chunk.js",
+    "main.js.map": "/static/js/main.ef0a58a2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ab3ce312.js",
     "runtime-main.js.map": "/static/js/runtime-main.ab3ce312.js.map",
-    "static/css/2.e06d4690.chunk.css": "/static/css/2.e06d4690.chunk.css",
-    "static/js/2.2854f19b.chunk.js": "/static/js/2.2854f19b.chunk.js",
-    "static/js/2.2854f19b.chunk.js.map": "/static/js/2.2854f19b.chunk.js.map",
+    "static/css/2.f86e49f5.chunk.css": "/static/css/2.f86e49f5.chunk.css",
+    "static/js/2.bde9f3b6.chunk.js": "/static/js/2.bde9f3b6.chunk.js",
+    "static/js/2.bde9f3b6.chunk.js.map": "/static/js/2.bde9f3b6.chunk.js.map",
     "c88ed9691f5cc495bee3.worker.js": "/c88ed9691f5cc495bee3.worker.js",
     "c88ed9691f5cc495bee3.worker.js.LICENSE.txt": "/c88ed9691f5cc495bee3.worker.js.LICENSE.txt",
     "c88ed9691f5cc495bee3.worker.js.map": "/c88ed9691f5cc495bee3.worker.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4129a221584df2674db8cc2c18b8fb4f.js": "/precache-manifest.4129a221584df2674db8cc2c18b8fb4f.js",
+    "precache-manifest.9ea3d228534ad422e16860cf69217fdf.js": "/precache-manifest.9ea3d228534ad422e16860cf69217fdf.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.e06d4690.chunk.css.map": "/static/css/2.e06d4690.chunk.css.map",
-    "static/css/main.b9a4e1e2.chunk.css.map": "/static/css/main.b9a4e1e2.chunk.css.map",
-    "static/js/2.2854f19b.chunk.js.LICENSE.txt": "/static/js/2.2854f19b.chunk.js.LICENSE.txt",
+    "static/css/2.f86e49f5.chunk.css.map": "/static/css/2.f86e49f5.chunk.css.map",
+    "static/css/main.370036f0.chunk.css.map": "/static/css/main.370036f0.chunk.css.map",
+    "static/js/2.bde9f3b6.chunk.js.LICENSE.txt": "/static/js/2.bde9f3b6.chunk.js.LICENSE.txt",
     "static/media/icon-chffr-wheel.svg": "/static/media/icon-chffr-wheel.368fbfd6.svg",
     "static/media/pin-car.svg": "/static/media/pin-car.e2cea424.svg",
     "static/media/pin-home.svg": "/static/media/pin-home.76fbb1ef.svg",
@@ -26,9 +26,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ab3ce312.js",
-    "static/css/2.e06d4690.chunk.css",
-    "static/js/2.2854f19b.chunk.js",
-    "static/css/main.b9a4e1e2.chunk.css",
-    "static/js/main.d1364ace.chunk.js"
+    "static/css/2.f86e49f5.chunk.css",
+    "static/js/2.bde9f3b6.chunk.js",
+    "static/css/main.370036f0.chunk.css",
+    "static/js/main.ef0a58a2.chunk.js"
   ]
 }
